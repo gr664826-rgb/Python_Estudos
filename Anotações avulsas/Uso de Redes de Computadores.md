@@ -1,0 +1,1 @@
+Fonte: quarta edição do livro **Redes de Computadores**, escrito por **Andrew S. Tanenbaum**.

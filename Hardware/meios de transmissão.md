@@ -1,0 +1,8 @@
+
+[[Transmissão Paralela]]
+
+[[Transmissão Serial]]
+
+
+
+
